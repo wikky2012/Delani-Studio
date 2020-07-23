@@ -23,8 +23,20 @@ color: white;
     padding-top: 60px;
     color: white;
 }
+.what-we-do{
+    text-align: center;
+    height: 36vh;
+}
 .contact-us{
-    
+    width: 100%;
+    text-align: center;
+    color: white;
     height: 50vh;
     background-image: url('/assets/backgrounds/c_image.jpg');
+}
+.design-hidden{
+    display: none;
+}
+.portfolio img{
+    padding: 15px;
 }
