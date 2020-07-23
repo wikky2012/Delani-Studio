@@ -1,9 +1,30 @@
 .header{
+    height: 50vh;
+    text-align: center;
+    padding-top: 30px;
+    background-size: cover;
     background-image: url('/assets/backgrounds/h_img.jpg');
 }
+.header p{
+color: white;
+}
+.header h1{
+    color: white;
+}
+.about-us{
+    text-align: center;
+    height: 50vh;
+    padding-top: 30px;
+}
 .services{
+    text-align: center;
+    height: 50vh;
     background-image: url('/assets/backgrounds/s_image.jpg');
+    padding-top: 60px;
+    color: white;
 }
 .contact-us{
+    
+    height: 50vh;
     background-image: url('/assets/backgrounds/c_image.jpg');
 }
