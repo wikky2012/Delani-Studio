@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <title>Delani</title>
-    <!-- Required meta tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -86,9 +86,12 @@
     </div>
     <div class="contact-us">
       <h1>CONTACT US</h1>
-      <input type="text" class="form control" placeholder="Name..">
-      <input type="text" class="form control" placeholder="Email.."><br>
-      <input type="text" class="message" id="msg" placeholder="Your message here">
+      <form>
+        <input type="text" class="form control" placeholder="Name.." id="name" value="name" required>
+        <input type="email" class="form control" placeholder="Email.." id="email" value="email"><br>
+        <input type="text" class="message" id="msg" placeholder="Your message here..." value="message" required><br>
+        <button type="submit" value="btn">Submit</button>
+      </form>
     </div>
     <div class="footer">
       <img src="assets/social_icons/behance.png" alt="">

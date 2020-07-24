@@ -33,5 +33,8 @@ $(document).ready(function() {
         $("img#image3").click(function(){
           $("h3#3").text("PRODUCT MANAGEMENT");
         });
+        // $('h2').hover(function(){
+        //   alert('hey nigga');
+        // })
       });
 
