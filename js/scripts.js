@@ -23,5 +23,15 @@ $(document).ready(function() {
             $(".design-showing3").toggle();
             $(".design-hidden3").toggle();
         });
+
+        $("img#image1").click(function(){
+          $("h3#1").text("DESIGN");
+        });
+        $("img#image2").click(function(){
+          $("h3#2").text("DEVELOPMENT");
+        });
+        $("img#image3").click(function(){
+          $("h3#3").text("PRODUCT MANAGEMENT");
+        });
       });
 
