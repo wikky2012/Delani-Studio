@@ -20,7 +20,7 @@ https://joseph-odhiambo.github.io/Delani-Studio/
 
 * git clone ```https://github.com/wikky2012/Delani-Studio.git```
 
-* cd Delani-Studio
+* cd Delani
 
 * code . or atom . depending on the text editor of your choise.
 
@@ -53,5 +53,5 @@ If you have any question or contributions, please email me at [wicliferono@gmail
 ## License
 * *MIT License:*
 * {Determine the license under which this application can be used.  See below for more details on licensing.}*[LICENSE](LICENSE)
-* Copyright (c) 2020 **Joseph Odhiambo*
+* Copyright (c) 2020 **Wicliffe Ronoh*
 
