@@ -2,7 +2,7 @@
 
 ## Author
 
-[Joseph-Odhiambo](https://github.com/Joseph-Odhiambo)
+[Wicliffe Ronoh](https://github.com/wikky2012/Delani-Studio)
 
 ## Description
 
@@ -18,7 +18,7 @@ https://joseph-odhiambo.github.io/Delani-Studio/
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Joseph-Odhiambo/Delani-Studio.git```
+* git clone ```https://github.com/wikky2012/Delani-Studio.git```
 
 * cd Delani-Studio
 
@@ -37,10 +37,10 @@ https://joseph-odhiambo.github.io/Delani-Studio/
 ## BDD
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
-|  Enter your name  |   Joseph Odhiambo |     |
-| Enter your Email Address  | josephkdo@gmail.com.com |   |
+|  Enter your name  |   Wicliffe Ronoh|     |
+| Enter your Email Address  | wicliferono@gmail.com |   |
 | Enter your message or comment   |  I would love to work with you     |     |
-| Press Submit|     |Pop up "Joseph Odhiambo , we have received your message. Thank you for reaching out to us.|
+| Press Submit|     |Pop up "Wicliffe Ronoh , we have received your message. Thank you for reaching out to us.|
 
 ## Known Bugs
 * The site is not responsive enough for some devices. 
@@ -48,7 +48,7 @@ https://joseph-odhiambo.github.io/Delani-Studio/
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [josephkdo@gmail.com]
+If you have any question or contributions, please email me at [wicliferono@gmail.com]
 
 ## License
 * *MIT License:*
