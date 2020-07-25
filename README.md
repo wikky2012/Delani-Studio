@@ -9,7 +9,7 @@
 This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. 
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/Joseph-Odhiambo/Delani-Studio/master/screenshot/Screenshot%20from%202020-07-24%2008-50-45.png# Delani-Studio" width="900px" height="440px">
+<img src="https://raw.githubusercontent.com/Joseph-Odhiambo/Delani-Studio/master/screenshot/Screenshot from 2020-07-25 13-36-58.png# Delani-Studio" width="900px" height="440px">
 
 ## Live Page 
 https://joseph-odhiambo.github.io/Delani-Studio/
