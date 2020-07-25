@@ -265,7 +265,7 @@ input[type=text],input[type=email],#comment{
   width: 60%;
 }
 button{
-  align-items: center;
+  text-align: center;
   padding-bottom: 30px;
   margin-bottom: 20px;
 }
