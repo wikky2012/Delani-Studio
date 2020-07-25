@@ -12,7 +12,7 @@ This project is a web application for Delani studio that shows details about the
 <img src=https://github.com/wikky2012/Delani-Studio/blob/master/screenshot/Screenshot%20from%202020-07-25%2013-36-58.png width="900px" height="440px">
 
 ## Live Page 
-https://joseph-odhiambo.github.io/Delani-Studio/
+https://wikky2012.github.io/Delani-Studio/
 
 
 ## Installation / Setup instruction
