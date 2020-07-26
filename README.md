@@ -20,7 +20,7 @@ https://wikky2012.github.io/Delani-Studio/
 
 * git clone ```https://github.com/wikky2012/Delani-Studio.git```
 
-* cd Delani
+* cd Delani-Studio
 
 * code . or atom . depending on the text editor of your choise.
 
