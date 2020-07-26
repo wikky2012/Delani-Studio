@@ -28,7 +28,7 @@ https://wikky2012.github.io/Delani-Studio/
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* markdown
+* Markdown
 * [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 * [jQuery](https://www.w3schools.com/jquery/default.asp)
 
